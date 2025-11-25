@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/thystarguardian" target="blank"><img src="https://img.shields.io/twitter/follow/thystarguardian?logo=twitter&style=for-the-badge" alt="thystarguardian" /></a> </p>
 
-- 🔭 I’m currently working on **Subify**
+- 🔭 I’m currently working on **School Planner**
 
 - 🌱 I’m currently learning **Kotlin, React Native**
 
