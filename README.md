@@ -56,11 +56,4 @@ I build Android apps on my own in my spare time. I don't do it for a job, I do i
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Nathan-D-Redfield&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan-D-Redfield&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <p align="center"><i>Building one app at a time. ☕</i></p>
